@@ -40,7 +40,7 @@
     display: flex;
     justify-content: space-around;
 }
-.devPic img{
+.subhakiran img{
     width: 719px;
     height: 77vh;
     position: absolute;
@@ -50,7 +50,7 @@
     
 
 }
-.devPic devshape{
+.subhakiran devshape{
     height: 100%;
     position: absolute;
     left: 50%;
